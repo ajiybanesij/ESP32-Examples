@@ -6,3 +6,5 @@ YouTube ESP32 Examples Videos => https://www.youtube.com/playlist?list=PLjSwM7Qe
 
 [Example 1 Blink LED](https://github.com/ajiybanesij/ESP32-Examples/tree/master/Example1)
 
+[Example 2 LED Control with Button](https://github.com/ajiybanesij/ESP32-Examples/tree/master/Example2)
+
